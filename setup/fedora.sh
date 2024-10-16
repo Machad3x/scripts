@@ -21,6 +21,7 @@ sudo dnf install \
     git-lfs \
     glibc-devel \
     glibc-static \
+    gperf \
     libstdc++-static \
     libX11-devel \
     make \
@@ -31,7 +32,6 @@ sudo dnf install \
     zlib-devel \
     ncurses-devel.i686 \
     readline-devel.i686 \
-    zlib-devel.i686 \
     libX11-devel.i686 \
     mesa-libGL-devel.i686 \
     glibc-devel.i686 \
@@ -39,6 +39,7 @@ sudo dnf install \
     libXrandr.i686 \
     zip \
     perl-Digest-SHA \
+    pngcrush \
     python2 \
     wget \
     lzop \
